@@ -1,1 +1,3 @@
 # git-demo
+
+Demo project
